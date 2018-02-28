@@ -1,6 +1,6 @@
-package Part1;
+package Part2;
 
-public class Coordinate{
+class Coordinate{
 	int x, y;
 	Coordinate(int x, int y) {
 		this.x = x;
